@@ -1,1 +1,4 @@
-Fixed resolution and scaling issue
+ 
+-Force light theme 
+-Fixed trying to plan tasks with irrelevant appointment date 
+-After planning if plan not set, set the first one by default
