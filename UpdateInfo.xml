@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>0.0.1.7</version>
-  <url>https://github.com/Dima-Kal/BuzzrAutoRelease/releases/download/0.0.1.7/BuzzrAuto.zip</url>
+  <version>0.0.1.8</version>
+  <url>https://github.com/Dima-Kal/BuzzrAutoRelease/releases/download/0.0.1.8/BuzzrAuto.zip</url>
   <changelog>https://raw.githubusercontent.com/Dima-Kal/BuzzrAutoRelease/master/ReleaseNotes.txt</changelog>
   <mandatory>true</mandatory>
 </item>

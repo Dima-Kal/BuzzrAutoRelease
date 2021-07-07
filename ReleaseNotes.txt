@@ -1,2 +1,2 @@
 
--Fixed exception handling and logging
+-Added culture fix to float parse
