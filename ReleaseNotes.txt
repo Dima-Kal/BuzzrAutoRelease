@@ -1,2 +1,2 @@
 
--Fixed issue where courier plan screen did not properly show up
+-Fixed exception handling and logging
