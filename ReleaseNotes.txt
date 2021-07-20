@@ -1,3 +1,2 @@
 
--added more logs 
--added better calculation of taks priority
+-upgraded google or tools version
