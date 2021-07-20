@@ -1,2 +1,1 @@
-
--Added culture fix to float parse
+added global culture setting
