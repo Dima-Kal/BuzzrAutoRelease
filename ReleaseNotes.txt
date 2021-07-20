@@ -1,2 +1,3 @@
 
--Added more logs
+-added more logs 
+-added better calculation of taks priority
