@@ -1,2 +1,2 @@
 
--Added more logs and exceptions, added send log to mail when error happens
+-Added a timer to check for updates every 5 minutes
