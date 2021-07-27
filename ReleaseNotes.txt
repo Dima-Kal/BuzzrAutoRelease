@@ -1,2 +1,2 @@
 
--Switch to netcoreapp3.1 framework
+-Change back to net framework 4.8
