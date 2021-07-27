@@ -1,2 +1,2 @@
 
--Added Replan Screen
+-Switch to netcoreapp3.1 framework
