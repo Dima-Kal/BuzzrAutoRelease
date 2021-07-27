@@ -1,2 +1,2 @@
 
--Change back to net framework 4.8
+-Added more logs and exceptions, added send log to mail when error happens
