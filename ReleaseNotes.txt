@@ -1,2 +1,2 @@
 
--Changed text color on red background to white
+-Added version number to window title
