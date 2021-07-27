@@ -1,2 +1,2 @@
 
--Send mail with log on exit
+-Changed text color on red background to white
