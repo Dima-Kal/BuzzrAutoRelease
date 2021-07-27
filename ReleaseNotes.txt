@@ -1,2 +1,2 @@
 
--Added a timer to check for updates every 5 minutes
+-Updated release script
