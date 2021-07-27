@@ -1,2 +1,2 @@
 
--Updated release script
+-Send mail with log on exit
