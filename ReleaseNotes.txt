@@ -1,2 +1,2 @@
 
--Added version number to window title
+-Fixed scheduling tasks with higher status then booked/schedule
