@@ -1,2 +1,2 @@
 
--Fixed scheduling tasks with higher status then booked/schedule
+-Fixed route rearrange when replaning route and sending to click
