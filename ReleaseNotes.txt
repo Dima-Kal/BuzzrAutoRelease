@@ -1,2 +1,2 @@
 
--fixed issue where new eta was not updated when moving task
+-Fixed bug with sending route to click
