@@ -1,2 +1,2 @@
 
--Fixed bug with sending route to click
+-Fix issue with assignments eta
