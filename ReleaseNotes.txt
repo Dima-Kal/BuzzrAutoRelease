@@ -1,1 +1,2 @@
-fix connection
+
+-fixed issue where new eta was not updated when moving task
