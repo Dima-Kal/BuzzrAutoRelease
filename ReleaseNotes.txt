@@ -1,3 +1,2 @@
 
--Improved route planner logic 
--Fixed issue where eta was not set properly when moving tasks
+-Added replan routes by district
