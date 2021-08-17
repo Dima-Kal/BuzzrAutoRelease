@@ -1,2 +1,1 @@
-
--Added replan routes by district
+-Fixed bug in sending route to click
