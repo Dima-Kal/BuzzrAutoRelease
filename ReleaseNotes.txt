@@ -1,3 +1,1 @@
--Fixed bug where connection error not shown correctly
--Ordered regions and districticts by abc
--Allow to press enter on login screen to connect
+-Added plan by call id prefix
