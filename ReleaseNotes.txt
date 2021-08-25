@@ -1,1 +1,2 @@
--Added plan by call id prefix
+-Fixed polygon planning not working
+-Added city to task description
