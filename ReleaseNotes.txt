@@ -1,2 +1,2 @@
--Fixed polygon planning not working
--Added city to task description
+
+-Added batch incomplete
