@@ -1,2 +1,2 @@
 
--Add notification for batch incomplete
+-small fixes in batch incomplete
