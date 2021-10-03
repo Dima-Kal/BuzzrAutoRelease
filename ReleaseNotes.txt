@@ -1,2 +1,2 @@
 
--Fix issue with replan route
+-Fix issue with planning tools
