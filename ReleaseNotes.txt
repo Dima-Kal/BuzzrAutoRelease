@@ -1,2 +1,2 @@
 
--Fix showing shift for wrong SLA
+-Fix bug with timetable data
