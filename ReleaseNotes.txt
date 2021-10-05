@@ -1,2 +1,2 @@
 
--Fix issue with planning tools
+-Fix showing shift for wrong SLA
