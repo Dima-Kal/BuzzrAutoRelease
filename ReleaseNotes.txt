@@ -1,2 +1,2 @@
 
--Fix bug with timetable data
+-Fix time SD/ND after midnight
