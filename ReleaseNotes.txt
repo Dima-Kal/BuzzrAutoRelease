@@ -1,6 +1,1 @@
-
-- Added new user error message 
-- Added fix for polygon planning and new error message 
-- Added new data grid for checking planned route 
-- Added reverse route 
-- Added auto schedule to nearest task on open tasks when planning
+- Redesigned route inspection controller
