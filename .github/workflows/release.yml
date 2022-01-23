@@ -30,7 +30,14 @@ jobs:
           $updateInfoXml.item.version = $bumpedversion
           $updateInfoXml.item.url = "https://github.com/Dima-Kal/BuzzrAutoRelease/releases/download/$($bumpedversion)/BuzzrAuto.zip"
           $updateInfoXml.Save($file.FullName)
+          
       - name: Update Release Notes File
         run: |
           $ReleaseNotes = '${{ steps.fetch_release.outputs.body }}'
           Set-Content -Path .\ReleaseNotes.txt -Value $ReleaseNotes.Replace('-', ($newLine+'-'))
+          
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v7.5.0 # You can change this to use a specific version.
+        with:
+          message: 'Added release ${{ steps.fetch_release.outputs.tag_name }}'  
+          pull: 'NO-PULL'
