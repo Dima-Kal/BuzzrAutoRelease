@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: Fetch Release
-        uses: gregziegan/fetch-latest-release@v2
+        uses: gregziegan/fetch-latest-release@v1
 
       # Runs a single command using the runners shell
       - name: Update Release XML
