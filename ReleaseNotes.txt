@@ -1,2 +1,4 @@
+Add Upload Release Workflow (#7)
 
-- Added new reports page
+
+- [Internal Change] Improve release flow
