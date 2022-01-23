@@ -34,6 +34,7 @@ jobs:
       - name: Update Release Notes File
         run: |
           $ReleaseNotes = '${{ steps.fetch_release.outputs.body }}'
+          $newLine = "`r`n"
           Set-Content -Path .\ReleaseNotes.txt -Value $ReleaseNotes.Replace('-', ($newLine+'-'))
           
       - name: Commit Changes
