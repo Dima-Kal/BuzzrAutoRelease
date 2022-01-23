@@ -18,11 +18,13 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: Fetch Release
+        id: fetch_release
         uses: gregziegan/fetch-latest-release@v2.0.0
 
       # Runs a single command using the runners shell
       - name: Update Release XML
         run: |
+          $bumpedVersion = ${{ steps.fetch_release.outputs.tag_name }}
           $file = Get-Item .\UpdateInfo.xml
           [xml]$updateInfoXml = Get-Content $file
           $updateInfoXml.item.version = $bumpedversion
