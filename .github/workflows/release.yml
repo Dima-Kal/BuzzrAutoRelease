@@ -32,4 +32,5 @@ jobs:
           $updateInfoXml.Save($file.FullName)
       - name: Update Release Notes File
         run: |
+          $ReleaseNotes = '${{ steps.fetch_release.outputs.body }}'
           Set-Content -Path .\ReleaseNotes.txt -Value $ReleaseNotes.Replace('-', ($newLine+'-'))
