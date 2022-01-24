@@ -1,3 +1,4 @@
-Update Batch Incomplete
+Reports Bug Fix
 
-* Added "Incomplete Reason Type" field
+
+- Fix bug with wrong deviated business tasks calculation
