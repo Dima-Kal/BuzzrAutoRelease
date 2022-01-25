@@ -1,4 +1,6 @@
-Reports Bug Fix
+Planner Bug Fixes
 
 
-- Fix bug with wrong deviated business tasks calculation
+- Changed route compression to be on specific task instead of first task in Gantt
+
+- Fixed issue where tasks were not unscheduled properly when starting route planner
