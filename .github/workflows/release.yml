@@ -38,6 +38,7 @@ jobs:
       - name: Update Release Notes File
         run: |
           $ReleaseNotes = '${{ steps.fetch_release.outputs.body }}'
+          Set-Content -Path .\ReleaseNotes.txt -Value $ReleaseNotes
           
       - name: Commit Changes
         uses: EndBug/add-and-commit@v8 # You can change this to use a specific version.
