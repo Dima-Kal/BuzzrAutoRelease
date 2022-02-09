@@ -1,6 +1,4 @@
-Planner Bug Fixes
+Reports improvements
 
-
-- Changed route compression to be on specific task instead of first task in Gantt
-
-- Fixed issue where tasks were not unscheduled properly when starting route planner
+- Added new data table type with better features
+- Changed warnings criteria
