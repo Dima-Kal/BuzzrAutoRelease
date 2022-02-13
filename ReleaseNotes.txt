@@ -1,4 +1,5 @@
-Reports improvements
+Reports Fixes
 
-- Added new data table type with better features
-- Changed warnings criteria
+- Fixed appointment columns to show times and not only date
+- Fixed row size of errors and warnings
+- Added default starting group by parameters for reports
