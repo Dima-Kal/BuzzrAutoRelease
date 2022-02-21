@@ -1,5 +1,6 @@
 Reports Fixes
 
-- Fixed appointment columns to show times and not only date
-- Fixed row size of errors and warnings
-- Added default starting group by parameters for reports
+- Added checking all statuses except scheduled, booked and reserved for capacity calculation
+- Fixed time format issues in values
+- Fixed csv downloads issues
+- Added new properties in reports
