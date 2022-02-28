@@ -1,4 +1,3 @@
-Cancelled Couriers Fixes
+Disable Auto Reports Fetching 
 
-- Fixed bug where empty rows in cancelled couriers excel prevent app from loading
-- Added support for "/" and "." date delimiters
+* disable auto reports fetching due to low click server bandwidth
