@@ -1,3 +1,5 @@
-Disable Auto Reports Fetching 
+Change New Click Sever Url And Reports Fixes
 
-* disable auto reports fetching due to low click server bandwidth
+- Change production URL to new URL dedicated for BuzzrAuto
+- Fixed date parsing issue in cancelled courier sheet
+- Fixed cancelled couriers not updated after refreshing reports
