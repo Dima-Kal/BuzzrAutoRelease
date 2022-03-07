@@ -1,5 +1,3 @@
-Change New Click Sever Url And Reports Fixes
+Batch Delete
 
-- Change production URL to new URL dedicated for BuzzrAuto
-- Fixed date parsing issue in cancelled courier sheet
-- Fixed cancelled couriers not updated after refreshing reports
+- Added new batch tasks delete feature
