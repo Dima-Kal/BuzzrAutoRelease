@@ -1,1 +1,3 @@
-Fix Cancelled Couriers Negative Date
+New Scheduler Interface
+
+- Added new planner screen scheduler interface
