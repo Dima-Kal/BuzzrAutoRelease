@@ -1,5 +1,5 @@
-Batch Scheduler Fixes
+Add settings page 
 
-Batch Scheduler Fixes:
-- Fixed issue with date not selected properly
-- Fixed issue where scheduler would stop if there was an issue with a task during scheduling
+Added settings page to control:
+- Same/Next day dates
+- Click server
