@@ -1,5 +1,3 @@
-Add settings page 
+Fix command error
 
-Added settings page to control:
-- Same/Next day dates
-- Click server
+- Fixed infrastructure error
