@@ -1,3 +1,4 @@
-Fix command error
+Schedule districts that dont require planning
 
-- Fixed infrastructure error
+- Add button in batch scheduler to schedule districts that dont require planning
+- Various fixes
