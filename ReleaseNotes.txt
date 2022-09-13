@@ -1,4 +1,3 @@
-Schedule districts that dont require planning
+Fix Batch Scheduler Issue
 
-- Add button in batch scheduler to schedule districts that dont require planning
-- Various fixes
+- Fixed issue where status was not set correctly when using batch scheduler
