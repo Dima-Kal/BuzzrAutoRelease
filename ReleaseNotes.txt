@@ -1,3 +1,3 @@
-Fix Batch Scheduler Issue
+Scheduling Next Day
 
-- Fixed issue where status was not set correctly when using batch scheduler
+- Add in district scheduler to schedule next day
