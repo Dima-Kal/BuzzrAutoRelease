@@ -1,3 +1,5 @@
-Scheduling Next Day
+Fix Scheduling To Districts
 
-- Add in district scheduler to schedule next day
+- Do not stop when failing to schedule/dispatch task
+- Fix issue with TF limit
+- Change TF scheduling to priority 6 instead of TF prefix
