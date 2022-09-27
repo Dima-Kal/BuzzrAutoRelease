@@ -1,5 +1,3 @@
-Fix Scheduling To Districts
+Replan Courier
 
-- Do not stop when failing to schedule/dispatch task
-- Fix issue with TF limit
-- Change TF scheduling to priority 6 instead of TF prefix
+- Added Replan courier screen
