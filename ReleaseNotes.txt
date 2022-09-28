@@ -1,3 +1,3 @@
-Replan Courier
+Batch Scheduler Error Fix
 
-- Added Replan courier screen
+- Fixed issue where batch scheduler stopped running because no assignments were on courier
