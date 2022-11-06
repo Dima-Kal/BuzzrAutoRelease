@@ -1,3 +1,3 @@
-Disable time windows
+Appointments SLA
 
-- Disabled all (Appointments, Business) time windows for tasks
+- Allow appointment SLA calculation if no SLA exist
