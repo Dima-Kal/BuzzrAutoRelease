@@ -1,3 +1,3 @@
-Appointments SLA
+Fix TimeTable URL
 
-- Allow appointment SLA calculation if no SLA exist
+- Change timetable url from http to https
